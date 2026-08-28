@@ -1,0 +1,26 @@
+train: D:/Projects/YOLOv5 assistive-vision system/vision-3/train/images
+val: D:/Projects/YOLOv5 assistive-vision system/vision-3/valid/images
+test: D:/Projects/YOLOv5 assistive-vision system/vision-3/test/images
+
+nc: 12
+
+names:
+  - bicycle
+  - bus
+  - car
+  - crosswalk
+  - door
+  - green pedestrian light
+  - guide blocks
+  - motorcycle
+  - person
+  - pothole
+  - red pedestrian light
+  - stairs
+
+roboflow:
+  license: CC BY 4.0
+  project: vision-3-07opa
+  url: https://universe.roboflow.com/major-project-dskar/vision-3-07opa/dataset/1
+  version: 1
+  workspace: major-project-dskar
