@@ -35,6 +35,10 @@ This project investigated whether an object-detection pipeline could:
 * Provide spoken information about detected objects
 * Operate continuously using a live camera
 
+## Demonstration
+
+![Real-time assistive object detection](demo/detection_demo.png)
+
 ## System Workflow
 
 ```text
@@ -219,7 +223,7 @@ assistive-vision-yolov5/
 │   ├── PR_curve.png
 │   └── F1_curve.png
 └── demo/
-    └── detection_demo.jpg
+    └── detection_demo.png
 ```
 
 The complete dataset, virtual environment, cloned YOLOv5 source, caches, and full training-output folders are not committed to this repository.
