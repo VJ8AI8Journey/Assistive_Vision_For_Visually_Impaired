@@ -35,10 +35,6 @@ This project investigated whether an object-detection pipeline could:
 * Provide spoken information about detected objects
 * Operate continuously using a live camera
 
-## Demonstration
-
-![Real-time assistive object detection](demo/detection_demo.png)
-
 ## System Workflow
 
 ```text
